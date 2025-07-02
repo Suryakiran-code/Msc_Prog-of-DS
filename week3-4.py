@@ -1,4 +1,5 @@
 # questions from week 3 - 4 from all aula pages ------------------
+#poisons distribution model checkout Model in sports data set ***************************
 """
 Module - A module is a collection of variables and functions that are grouped together in a single file.
   The math module provides access to lots of mathematical functions and constants (such 𝜋). 
